@@ -1,5 +1,5 @@
-numpy==2.1.1
+numpy==2.1.2
 pickle-mixin==1.0.2
-streamlit==1.25.0  # Recommend updating to a more recent Streamlit version compatible with Python 3.12
-streamlit-option-menu==0.3.2
-scikit-learn==1.2.2
+streamlit==1.39.0  # Recommend updating to a more recent Streamlit version compatible with Python 3.12
+streamlit-option-menu==0.4.0
+scikit-learn==1.5.2
